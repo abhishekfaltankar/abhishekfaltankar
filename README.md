@@ -1,15 +1,15 @@
 # Hi, I'm Abhishek 👋
 
 🎯 Aspiring Data Analyst from India
-📊 Skilled in Python, SQL, Excel
+📊 Skilled in Python, SQL, Power BI, Excel
 📈 Interested in Data Analysis & Visualization
 
 ---
 
 ## 🚀 Projects
 
-* 📊 Sales Data Analysis (Python + Pandas)
-* 📈 Excel Dashboard Project
+* 📊 Enterprise-retail-intelligence-platform
+* 📈 Sales Data Analysis (Python + Pandas)
 * 🗄️ SQL Data Analysis
 
 ---
